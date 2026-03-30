@@ -1,0 +1,37 @@
+# Data
+data/
+
+# Model weights
+models/
+improved_model/models/
+attention_training/models/
+*.pth
+*.pt
+
+# Generated outputs
+predictions/
+runs/
+submissions/
+*.csv
+*.pkl
+
+# Kaggle download artifacts
+eth-aml-2025-project-task-2/
+
+# Python environment
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
